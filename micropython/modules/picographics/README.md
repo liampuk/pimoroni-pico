@@ -88,6 +88,7 @@ The available display settings are listed here:
 * 64 x 64 Matrix - `DISPLAY_INTERSTATE75_64X64`
 * 128 x 64 Matrix - `DISPLAY_INTERSTATE75_128X64`
 * 192 x 64 Matrix - `DISPLAY_INTERSTATE75_192X64`
+* 160 x 32 Matrix - `DISPLAY_INTERSTATE75_160X32`
 * 256 x 64 Matrix - `DISPLAY_INTERSTATE75_256X64`
 
 ### Supported Graphics Modes (Pen Type)
