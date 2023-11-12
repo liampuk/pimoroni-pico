@@ -1,6 +1,6 @@
 #pragma once
 
-#include "libraries/pico_graphics/bitmap_fonts/bitmap_fonts.hpp"
+#include "bitmap_fonts.hpp"
 
 const bitmap::font_t tfl {
   .height = 8,
